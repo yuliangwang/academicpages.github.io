@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &wylxyxx
+  username               : @wylxyxx
 facebook:
   username               :
   app_id                 :
@@ -85,10 +85,10 @@ author:
   bio              : "Computational Biologist"
   location         : "Seattle, WA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Yuliang+Wang"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=(Yuliang+Wang%5BAuthor+-+Full%5D)+AND+(Washington+OR+Oregon+OR+Illinois)"
   googlescholar    : "https://scholar.google.com/citations?user=kei_UYkAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yuliang_Wang15"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3788-5477"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@wylxyxx"
   vine             :
   weibo            :
   xing             :
