@@ -1,6 +1,14 @@
 ---
-title: High resolution, multi-omic network biology
+layout: archive
+title: "High resolution, multi-omic network biology"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
+
 ## Overview
 My lab uses high resolution (single cell RNA-seq, spatial transcriptomics), multi-omic (transcriptomics, metabolomics, and epigenomics) and biological networks (signaling networks, metabolic networks) to address a wide range problems in stem cell biology, cancer and aging.  
 
