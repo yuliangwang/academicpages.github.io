@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "High resolution, multi-omic network biology"
+title: ""
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Overview
-My lab uses high resolution (single cell RNA-seq, spatial transcriptomics), multi-omic (transcriptomics, metabolomics, and epigenomics) and biological networks (signaling networks, metabolic networks) to address a wide range problems in stem cell biology, cancer and aging.  
+The theme of my research is High resolution, multi-omic network biology. My lab uses high resolution (single cell RNA-seq, spatial transcriptomics), multi-omic (transcriptomics, metabolomics, and epigenomics) and biological networks (signaling networks, metabolic networks) to address a wide range problems in stem cell biology, cancer and aging.  
 
 ## 1. Catching the wisphers in single cell transcriptomics   
 I recently developed a method called talklr (intercellular cross**TALK** using **L**igand-**R**eceptor), which uses Kullback-Leibler divergence, a concept from inforamtion theory, to uncover interesting ligand-receptor interactions among multiple cell types in single cell RNA-seq data. talklr can automatically detect ligand-receptor pairs mediating one-to-many or many-to-many cell-cell interactions. It also uncovers interesting ligand-receptor re-wiring between two conditions (e.g., disease vs. healthy, young vs. old).  
