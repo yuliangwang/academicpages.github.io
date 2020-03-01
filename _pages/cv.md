@@ -45,8 +45,9 @@ Skills
   * Cell type-specific metabolic network inference
   * Cancer metabolic network
 
-Publications
+Select publications
 ======
+For a full list of publications, please check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=kei_UYkAAAAJ).
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
