@@ -24,7 +24,10 @@ Spatially resolved transcriptomics data is increasingly used to profile many dis
 
 ## 3. Using scRNA-seq to identify maturation signatures of pluripotent stem cell derived cardiomyocytes (PSC-CM)
 My collaborators at ISCRM developed a microRNA cocktail to accelerate the maturation of PSC-CM. I performed scRNA-seq analysis of PSC-CM with different microRNA over-expression/knock-out combinations to determine which ones are driving the maturation process. We evaluated our discovery against publicly available bulk and single cell RNA-seq of human & mouse heart development. I also used trajectory analysis to uncover an interesting subset of proliferating PSC-CMs that emerged after knocking out a key component of the mitochondria fatty acid oxidation machinery. This mimics the genetic defects in sudden infant deaths. Our collaborators succesfully identified a small molecule that mitigate this defect in vitro. 
-Paper: [TFPa/HADHA is required for fatty acid beta-oxidation and cardiolipin re-modeling in human cardiomyocytes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6789043/)
+* Paper: [TFPa/HADHA is required for fatty acid beta-oxidation and cardiolipin re-modeling in human cardiomyocytes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6789043/)
+* Additional paper using bulk RNA-seq to assess effects of fatty acid on maturation: [Fatty Acids Enhance the Maturation of Cardiomyocytes Derived from Human Pluripotent Stem Cells](https://www.sciencedirect.com/science/article/pii/S2213671119303078). 
+* For more background information, please checkout our review paper: [Metabolic remodeling in early development and cardiomyocyte maturation](https://www.sciencedirect.com/science/article/pii/S1084952116300489).
+
 
 
 
