@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The Wang Lab for CompBio at UW CSE and ISCRM"
+title: "High resolution, multiomic network biology"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor at University of Washington Paul G. Allen School of Computer Science. I also hold a joint appoint at the Institute for Stem Cell and Regenerative Medicine. 
+I am a Research Assistant Professor at University of Washington Paul G. Allen School of Computer Science and Engineering. I also hold a joint appoint at the Institute for Stem Cell and Regenerative Medicine (ISCRM). 
 
 ## Current Interests and Projects:
 
-- Single cell RNA-seq
+- Single cell RNA-seq in developmental processes and disease modeling
 - Multi-omic data integration
 - Metabolic network modeling
 - Signaling network analysis
