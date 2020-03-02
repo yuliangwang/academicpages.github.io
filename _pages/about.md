@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "High resolution, multiomic network biology"
+title: "High resolution, multi-omic network biology"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
