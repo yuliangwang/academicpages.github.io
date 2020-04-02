@@ -26,7 +26,12 @@ Work experience
 * 06/2014-07/2016, Senior Research Associate
   * Computational Biology Program, Oregon Health & Science University 
   * Advisor: Professor. Adam Margolin
-  
+
+Awards
+======
+* Jaconette L. Tietze Young Scientist Award, 2020
+* University of Washington Royalty Research Fund Award, 2018 
+
 Skills
 ======
 * RNA-seq
