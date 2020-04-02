@@ -16,3 +16,7 @@ I am a Research Assistant Professor at University of Washington Paul G. Allen Sc
 - Multi-omic data integration
 - Metabolic network modeling
 - Signaling network analysis
+
+## Lab News:  
+- Yuliang was selected to receive the 2020 Jaconette L. Tietze Young Scientist Award from the Institute for Stem Cell & Regenerative Medicine at UW. 
+- Spatially-resolved metabolic network modeling of prostate cancer tumor microenvironment was featured as a [publication of the week by Science in Seattle](https://scienceinseattle.com/2020/03/10/spatial-modeling-of-prostate-cancer-metabolic-gene-expression-reveals-extensive-heterogeneity-and-selective-vulnerabilities/). 
