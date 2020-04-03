@@ -19,4 +19,4 @@ Office: S531
 UW Medicine South Lake Union  
 850 Republican St, Seattle, WA, 98109
 
-Email: yuliangw@cs.washington.edu
+__Email__: yuliangw@cs.washington.edu
