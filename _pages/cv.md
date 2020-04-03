@@ -25,7 +25,7 @@ Work experience
   * Advisor: Dr. Adam Margolin
 * 06/2014-07/2016, Senior Research Associate
   * Computational Biology Program, Oregon Health & Science University 
-  * Advisor: Professor. Adam Margolin
+  * Advisor: Dr. Adam Margolin
 
 Awards
 ======
