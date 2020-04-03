@@ -1,3 +1,14 @@
+---
+layout: archive
+title: ""
+permalink: /contact/
+author_profile: true
+redirect_from:
+  - /about
+---
+
+{% include base_path %}
+
 ### Montlake campus:   
 Office: CSE536  
 Paul G. Allen School of Computer Science & Engineering 
