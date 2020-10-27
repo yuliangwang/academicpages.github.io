@@ -19,7 +19,8 @@ Undergraduate students
 ======
 * **Robert Burris**  
 Computer Science + Applied Math 
-* **Christina Chen**
+* **Christina Chen**  
+Biochemistry 
 * **Santino Iannone**  
 I am a senior in the microbiology department.
 * **Jasmine Li**  
