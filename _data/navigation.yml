@@ -8,7 +8,10 @@ main:
     
   - title: "CV"
     url: /cv/
-        
+ 
+  - title: "Team"
+    url: /team/
+    
   - title: "Blog Posts"
     url: /year-archive/
     
