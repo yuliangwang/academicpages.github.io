@@ -32,7 +32,8 @@ I am a Masters student in Computational Linguistics and I am interested in Machi
 * Irika Sinha
 * **Dylan Stockard** 
 I’m Dylan Stockard and I’m studying electrical engineering. I expect to graduate in 2022 and after college I plan on getting a masters degree in data science. My interests are in computational biology, wildlife conservation, and martial arts.
-* Tiffany Tang
+* **Tiffany Tang** 
+I am Leqi Tang (Tiffany)and I major in Applied mathematics and Psychology, and will graduate in 2022. 
 * Mei Zhao 
   
 
