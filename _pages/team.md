@@ -30,6 +30,7 @@ I am Ran(Lauren) Liao, majoring in Statistics: Data Science. I will graduate in 
 * **Vincent Joshua Soesanto**  
 I am a Masters student in Computational Linguistics and I am interested in Machine Learning and Natural Language Processing. 
 * **Irika Sinha**  
+B.S. Biochemistry, B.S. Biology (MCD)  
 * **Dylan Stockard**   
 I’m Dylan Stockard and I’m studying electrical engineering. I expect to graduate in 2022 and after college I plan on getting a masters degree in data science. My interests are in computational biology, wildlife conservation, and martial arts.
 * **Tiffany Tang**  
