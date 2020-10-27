@@ -17,7 +17,7 @@ PI: Yuliang Wang
 
 Undergraduate students
 ======
-* Robert Burris
+* **Robert Burris**
 * Christina Chen
 * Santino Iannone
 * Jasmine Li
