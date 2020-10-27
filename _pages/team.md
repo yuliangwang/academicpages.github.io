@@ -28,6 +28,7 @@ I major in Computer Science and expect to graduate in 2021.
 * **Lauren Liao**  
 I am Ran(Lauren) Liao, majoring in Statistics: Data Science. I will graduate in 2022 and hopefully become a data scientist or get to my desired grad school. I involve in programming and data visualization mostly, hoping to bring meaningful answers to others by them. 
 * **Masaki Rhodes**  
+Biochemistry and Economics  
 * **Vincent Joshua Soesanto**  
 I am a Masters student in Computational Linguistics and I am interested in Machine Learning and Natural Language Processing. 
 * **Irika Sinha**  
