@@ -22,7 +22,8 @@ Undergraduate students
 * Christina Chen
 * **Santino Iannone**  
 I am a senior in the microbiology department.
-* Jasmine Li
+* **Jasmine Li**  
+I major in Computer Science and expect to graduate in 2021. 
 * **Lauren Liao**  
 I am Ran(Lauren) Liao, majoring in Statistics: Data Science. I will graduate in 2022 and hopefully become a data scientist or get to my desired grad school. I involve in programming and data visualization mostly, hoping to bring meaningful answers to others by them. 
 * Masaki Rhodes
