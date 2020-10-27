@@ -38,6 +38,6 @@ I’m Dylan Stockard and I’m studying electrical engineering. I expect to grad
 * **Tiffany Tang**  
 I am Leqi Tang (Tiffany)and I major in Applied mathematics and Psychology, and will graduate in 2022. 
 * **Mei Zhao**  
-I am Mei Yin Zhao and I major in Biology.  
+I am Mei Ying Zhao and I major in Biology.  
   
 
