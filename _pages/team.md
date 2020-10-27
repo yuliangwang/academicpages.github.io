@@ -18,12 +18,15 @@ PI: Yuliang Wang
 Undergraduate students
 ======
 * **Robert Burris**
+
 * Christina Chen
-* Santino Iannone
+* **Santino Iannone**
+I am a senior in the microbiology department.
 * Jasmine Li
 * Lauren Liao
 * Masaki Rhodes
-* Vincent Joshua Soesanto
+* **Vincent Joshua Soesanto**
+I am a Masters student in Computational Linguistics and I am interested in Machine Learning and Natural Language Processing. 
 * Irika Sinha
 * Dylan Stockard
 * Tiffany Tang
