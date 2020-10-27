@@ -17,9 +17,8 @@ PI: Yuliang Wang
 
 Undergraduate students
 ======
-* **Robert Burris**
-
-* Christina Chen
+* **Robert Burris**  
+* **Christina Chen**
 * **Santino Iannone**  
 I am a senior in the microbiology department.
 * **Jasmine Li**  
