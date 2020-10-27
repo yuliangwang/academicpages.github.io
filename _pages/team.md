@@ -18,9 +18,9 @@ PI: Yuliang Wang
 Undergraduate students
 ======
 * **Robert Burris**  
-Computer Science + Applied Math 
+Computer Science + Applied Math. I am interested in Machine learning and data science applied to biology.   
 * **Christina Chen**  
-Biochemistry 
+I am from Biochemistry and am interested in Medicine. I like the unlimited possibilities of stem cells in findings/treatments for diseases, and how this can be achieved through computational approaches.  
 * **Santino Iannone**  
 I am a senior in the microbiology department.
 * **Jasmine Li**  
@@ -30,13 +30,14 @@ I am Ran(Lauren) Liao, majoring in Statistics: Data Science. I will graduate in 
 * **Masaki Rhodes**  
 Biochemistry and Economics  
 * **Vincent Joshua Soesanto**  
-I am a Masters student in Computational Linguistics and I am interested in Machine Learning and Natural Language Processing. 
+I am a Masters student in Computational Linguistics and I am interested in I’m interested in applying machine learning techniques to natural language processing problems (syntactic structures, topic models, predictive analysis).  
 * **Irika Sinha**  
-B.S. Biochemistry, B.S. Biology (MCD)  
+B.S. Biochemistry, B.S. Biology (MCD). I am interested in Neuroimmunology and the use of bioinformatics to understand changes at a cellular level.    
 * **Dylan Stockard**   
 I’m Dylan Stockard and I’m studying electrical engineering. I expect to graduate in 2022 and after college I plan on getting a masters degree in data science. My interests are in computational biology, wildlife conservation, and martial arts.
 * **Tiffany Tang**  
-I am Leqi Tang (Tiffany)and I major in Applied mathematics and Psychology, and will graduate in 2022. 
+I am Leqi Tang (Tiffany)and I major in Applied mathematics and Psychology, and will graduate in 2022. I am interested in metabolic network modeling about psoriasis.  
+
 * **Mei Zhao**  
 I am Mei Ying Zhao and I major in Biology.  
   
