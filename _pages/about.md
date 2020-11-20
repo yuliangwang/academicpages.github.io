@@ -18,6 +18,7 @@ I am a Research Assistant Professor at University of Washington Paul G. Allen Sc
 - Signaling network analysis
 
 ## Lab News: 
+- 11-20-2020: Our lab was awarded a pilot grant from the [Unversity of Washington Center for Translational Muscle Research](https://iscrm.uw.edu/stories/new-muscle-center-for-uw-medicine/). The aim of our project is to identify metabolic interventions to mature iPSC-derived skeletal muscle cells by network-based multi-omic data integration. Many thanks to collaborators at the [Mack lab](http://www.rehab.washington.edu/education/faculty/nonproviderbios/mack.asp) and [Ruohola-Baker lab](http://depts.washington.edu/taneli/). 
 - 10-27-2020: Signaling and transcriptional network analysis of podocyte aging was published at [Kidney International](https://www.sciencedirect.com/science/article/pii/S0085253820307055), with [Commentary](https://www.sciencedirect.com/science/article/abs/pii/S0085253820309558). 
 - 10-09-2020: Santino Iannone from our lab received the Levinson Emerging Scholar Award. Congratulations, Santino!
 - 05-06-2020: Yuliang was selected to receive the [2020 Jaconette L. Tietze Young Scientist Award from the Institute for Stem Cell & Regenerative Medicine at UW](https://news.cs.washington.edu/2020/05/06/the-cell-whisperer-yuliang-wang-earns-young-scientist-award-for-advancing-computational-approaches-to-restore-intercellular-communication/). 
