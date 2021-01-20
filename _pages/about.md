@@ -18,6 +18,7 @@ I am a Research Assistant Professor at University of Washington Paul G. Allen Sc
 - Signaling network analysis
 
 ## Lab News: 
+- 01-19-2021: A new preprint from our lab describing a novel computational method that can discover metabolic network chagnes in diseases and developmental processes using single cell RNA-seq data. [Preprint](https://www.biorxiv.org/content/10.1101/2021.01.18.427154v1). Github link for the perturb-met [R package](https://github.com/yuliangwang/perturb.met). Tutorial available at [Rpubs](https://rpubs.com/wang341/perturb-met).  
 - 11-20-2020: Our lab was awarded a pilot grant from the [Unversity of Washington Center for Translational Muscle Research](https://iscrm.uw.edu/stories/new-muscle-center-for-uw-medicine/). The aim of our project is to identify metabolic interventions to mature iPSC-derived skeletal muscle cells by network-based multi-omic data integration. Many thanks to collaborators at the [Mack lab](http://www.rehab.washington.edu/education/faculty/nonproviderbios/mack.asp) and [Ruohola-Baker lab](http://depts.washington.edu/taneli/). 
 - 10-27-2020: Signaling and transcriptional network analysis of podocyte aging was published at [Kidney International](https://www.sciencedirect.com/science/article/pii/S0085253820307055), with [Commentary](https://www.sciencedirect.com/science/article/abs/pii/S0085253820309558). 
 - 10-09-2020: Santino Iannone from our lab received the Levinson Emerging Scholar Award. Congratulations, Santino!
