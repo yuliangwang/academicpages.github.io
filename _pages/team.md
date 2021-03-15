@@ -41,4 +41,10 @@ I am Leqi Tang (Tiffany)and I major in Applied mathematics and Psychology, and w
 * **Mei Zhao**  
 I am Mei Ying Zhao and I major in Biology.  
   
+PhD thesis committees I supervise
+======
+* **Joe Lim**  
+Environmental Toxicology  
+* **Runze Dong**  
+Biochemistry
 
