@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor at University of Washington Paul G. Allen School of Computer Science and Engineering. I also hold a joint appoint at the Institute for Stem Cell and Regenerative Medicine (ISCRM). 
+I am a Research Assistant Professor at University of Washington Paul G. Allen School of Computer Science and Engineering. I also hold a joint appoint at the Institute for Stem Cell and Regenerative Medicine (ISCRM). My lab develops novel computational methods and analytic workflows to mine massive heterogeneous biomedical datasets and address complex problems in stem cell development, kidney diseases, aging, and cancer. 
 
 ## Current Interests and Projects:
 
