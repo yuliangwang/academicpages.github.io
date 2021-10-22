@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Staff Data Scientist at Verily Life Sciences (formerly Google[x] Life Sciences). I was a Research Assistant Professor at University of Washington Paul G. Allen School of Computer Science and Engineering for 6 years (2016-2021), where I also held a joint appoint at the Institute for Stem Cell and Regenerative Medicine (ISCRM). My lab developed novel computational methods and analytic workflows to mine massive heterogeneous biomedical datasets and address complex problems in stem cell development, kidney diseases, aging, and cancer. 
+I am a Staff Data Scientist at Verily Life Sciences (formerly Google[x] Life Sciences). I was a Research Assistant Professor at University of Washington Paul G. Allen School of Computer Science and Engineering for 5 years (2016-2021), where I also held a joint appoint at the Institute for Stem Cell and Regenerative Medicine (ISCRM). My lab developed novel computational methods and analytic workflows to mine massive heterogeneous biomedical datasets and address complex problems in stem cell development, kidney diseases, aging, and cancer. 
 
 ## Research Interests and Projects:
 
